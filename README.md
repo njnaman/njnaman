@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Naman Jain</h1> 
-<p align="center"
+<p align="center">
 <a href="https://www.linkedin.com/in/naman-jain-9a1710152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naman" height="30" width="40" /></a>
 <a href="https://instagram.com/naman910" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naman" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/naman471" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naman" height="30" width="40" /></a>
